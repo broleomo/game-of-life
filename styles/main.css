@@ -60,3 +60,8 @@ button {
 button:hover {
     background-color: #A5609D;
 }
+.display {
+    font-family: 'Open Sans';
+    color: #A51795;
+    font-size: 16px;
+}
