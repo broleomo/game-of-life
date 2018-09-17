@@ -37,7 +37,9 @@ h1 {
     font-weight: 500;
     text-align: center;
     kerning: 5px;
-    text-shadow: 1px 1px #CCCCCC
+    text-shadow: 1px 1px #CCCCCC;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 h2 {
     font-size: 45px;
@@ -47,7 +49,7 @@ h2 {
     border-bottom: 1px purple solid;
     border-top: 1px purple solid;
     margin-top: 0px;
-    text-shadow: 1px 2px #CCCCCC
+    text-shadow: 1px 2px #CCCCCC;
 }
 button {
     font-family: 'Open Sans';
