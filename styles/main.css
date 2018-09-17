@@ -12,8 +12,11 @@
 }
 #reset {
     max-width: 300px;
-    background-color: purple;
-    color: pink;
+    background-color: white;
+    color: #A51795;
+}
+#reset:hover {
+    background-color: #E5E5E5;
 }
 h1 {
     font-size: 60px;
@@ -25,7 +28,7 @@ h1 {
 }
 h2 {
     font-size: 45px;
-    color: Pink;
+    color: #A51795;
     font-family: 'Open Sans';
     font-weight: 100;
     border-bottom: 1px purple solid;
@@ -35,10 +38,13 @@ h2 {
 button {
     font-family: 'Open Sans';
     font-size: 14px;
-    background-color: Pink;
+    background-color: #A51795;
     font-weight: 300;
     max-width: 200px;
     border-radius: 10px;
-    color: purple;
+    color: white;
     padding: 10px;
+}
+button:hover {
+    background-color: #A5609D;
 }
