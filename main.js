@@ -23,7 +23,7 @@ function reloadForm() {
 const chooseOccupation = jobs => {
     jobs = [
         {
-        name:'Lunch Lady',
+        name:'Cartoon Artist',
         image: 'lunch-lady.png',
         },
         {
